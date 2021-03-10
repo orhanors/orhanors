@@ -15,7 +15,6 @@
 
 <details>
 <summary><b> Education </b></summary>
-    </br>
     <h3> :trophy: Strive School </h3>   Full-Stack Developer (MERN Stack)
     <h3> :trophy: Ege University </h3>  Computer Science
 </details>
