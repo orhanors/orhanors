@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://github.com/orhanors/orhanors/blob/main/me2.png" width="400px" height="100px" alt="orhan örs" />
+    <img src="https://github.com/orhanors/orhanors/blob/main/me.png" width="400px" height="100px" alt="orhan örs" />
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/in/orhanors/">
