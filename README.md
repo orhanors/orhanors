@@ -27,8 +27,3 @@
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=orhanors&theme=tokyonight&hide_langs_below=4' />
 </details>
 
-<summary><b> Tech </b></summary>
-    </br>
-    <h3> :trophy: Strive School </h3>   Full-Stack Developer (MERN Stack)
-    <h3> :trophy: Ege University </h3>  Computer Science
-</details>
