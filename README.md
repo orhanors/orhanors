@@ -2,5 +2,5 @@
 
 
 <p align="center">
-    <img src="https://github.com/orhanors/orhanors/blob/main/me.png" width="350px" alt="tanay toshniwal" />
+    <img src="https://github.com/orhanors/orhanors/blob/main/me.png" width="550px" height="250px" alt="tanay toshniwal" />
 </p>
