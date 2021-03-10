@@ -6,7 +6,10 @@
   <img alt="orhanors's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
 </a>
 <a href="mailto:orsorhan1@gmail.com">
-  <img alt="orhanors's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/324/324123.svg" />
+  <img alt="orhanors's Mail" width="35px" src="https://image.flaticon.com/icons/svg/324/324123.svg" />
+</a>
+    <a href="https://medium.com/@orhanors">
+  <img alt="orhanors's Medium" width="35px" src="https://image.flaticon.com/icons/svg/725/725315.svg" />
 </a>
 <a href="https://www.instagram.com/orhanors_">
   <img alt="orhanors's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
