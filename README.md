@@ -10,7 +10,7 @@
 </a>
 </a>
   <a href="https://hub.docker.com/u/orhanors">
-  <img alt="orhanors's docker" width="35px" src="https://icon-library.com/images/docker-icon/docker-icon-12.jpg" />
+  <img alt="orhanors's docker" width="45px" src="https://icon-library.com/images/docker-icon/docker-icon-12.jpg" />
 </a>
  <a href="https://medium.com/@orhanors">
   <img alt="orhanors's Medium" width="35px" src="https://image.flaticon.com/icons/svg/725/725315.svg" />
