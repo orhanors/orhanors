@@ -1,28 +1,6 @@
 <p align="center">
     <img src="https://github.com/orhanors/orhanors/blob/main/mee.png" width="600px" height="100px" alt="orhan örs" />
 </p>
-<p align="center">
-<a href="https://www.linkedin.com/in/orhanors/">
-  <img alt="orhanors's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
-</a>
-  <a href="https://stackoverflow.com/users/13628948/orhanors">
-  <img alt="orhanors's stackoverflow" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111628.svg" />
-</a>
-</a>
-  <a href="https://hub.docker.com/u/orhanors">
-  <img alt="orhanors's docker" width="40px" src="https://icon-library.com/images/docker-icon/docker-icon-12.jpg" />
-</a>
- <a href="https://medium.com/@orhanors">
-  <img alt="orhanors's Medium" width="35px" src="https://image.flaticon.com/icons/svg/725/725315.svg" />
-</a>
-<a href="mailto:orsorhan1@gmail.com">
-  <img alt="orhanors's Mail" width="35px" src="https://image.flaticon.com/icons/svg/324/324123.svg" />
-</a>
-    
-<a href="https://www.instagram.com/orhanors_">
-  <img alt="orhanors's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
-</a>
-</p>
 
 <details>
 <summary><b> Education </b></summary>
