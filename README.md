@@ -9,6 +9,7 @@
 </details>
 
 <details>
+<!--
 <summary><b> Tools </b></summary>
      </br>
      <code><a href="https://nodejs.org/en/"><img height="90" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" alt="nodejs logo" /></a></code>
@@ -18,7 +19,8 @@
 <code><a href="https://www.python.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/768px-Python-logo-notext.svg.png" alt="python logo" /></a></code>
 <code><a href="https://www.java.com/tr/"><img height="40" src="https://upload.wikimedia.org/wikipedia/tr/thumb/2/2e/Java_Logo.svg/300px-Java_Logo.svg.png" alt="java logo" /></a></code>
 </details>
-
+-->
+<!--
 <details>
 <summary><b> Database </b></summary>
      </br>
@@ -26,15 +28,18 @@
     <code><a href="https://www.postgresql.org/"><img height="70" src="https://cdn.iconscout.com/icon/free/png-512/postgresql-11-1175122.png" alt="postgres logo" /></a></code>
 <code><a href="https://redis.io/"><img height="50" src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6b/Redis_Logo.svg/1200px-Redis_Logo.svg.png" alt="redis logo" /></a></code>
 </details>
+-->
 
+<!--
 <details>
+
 <summary><b> DevOps </b></summary>
      </br>
      <code><a href="https://ubuntu.com/"><img height="90" src="https://pngimg.com/uploads/linux/linux_PNG1.png" alt="linux logo" /></a></code>
      <code><a href="https://www.docker.com/"><img height="70" src="https://www.docker.com/sites/default/files/d8/styles/role_icon/public/2019-07/Moby-logo.png?itok=sYH_JEaJ" alt="docker logo" /></a></code>
 <code><a href="https://azure.microsoft.com/en-us/"><img height="70" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/1200px-Microsoft_Azure_Logo.svg.png" alt="azure logo" /></a></code>
 </details>
-
+-->
 
 <details>
 <summary><b> Statistics </b></summary>
